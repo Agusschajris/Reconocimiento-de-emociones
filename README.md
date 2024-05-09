@@ -1,1 +1,1 @@
-Modelo de Inteligencia Artifiial para el reconocimieno de emociones en fotos.
+Modelo de Inteligencia Artificial para el reconocimieno de emociones en fotos.
